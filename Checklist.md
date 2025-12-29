@@ -7,6 +7,9 @@
 
 ## ✅ FASE 1 — DEFINIÇÃO DO ESCOPO ############################
 
+🎯 **O que é “escopo”?**
+Escopo é a lista do que o projeto vai ter — e também o que não vai ter agora.
+
 - [ ] Funcionalidades da versão atual definidas
 - [ ] Itens que NÃO entram nesta versão registrados
 - [ ] Critérios de sucesso descritos em linguagem simples
@@ -15,6 +18,9 @@
 ------------------------------------------------------------------------------------------
 
 ## 📝 FASE 2 — PRD SIMPLES (DOCUMENTO DO PRODUTO) ##############
+
+🤔 **O que é PRD?**
+PRD é o Documento de Requisitos do Produto — uma explicação clara do que o sistema faz.
 
 - [ ] Problema que o sistema resolve descrito
 - [ ] Quem usa e como usa (exemplos reais)
@@ -27,10 +33,10 @@
 
 ## 🧱 FASE 3 — DADOS E BACKEND ANTES DA INTERFACE ###############
 
-**Termos simples**
-- Banco de dados = onde as informações ficam guardadas  
-- Permissões = quem pode acessar o quê  
-- RLS = impede um usuário de ver dados de outro
+🧩 **Termos explicados**
+•	Banco de Dados: onde as informações ficam guardadas
+•	RLS (Row Level Security): regra que impede usuários de verem dados de outras pessoas
+•	Permissões: quem pode acessar o quê
 
 Checklist:
 
@@ -44,7 +50,10 @@ Checklist:
 
 ## 🧩 FASE 4 — UMA FEATURE POR VEZ #################################
 
-**Feature = funcionalidade completa do início ao fim**
+🤔 **O que é “feature”?**
+Feature é uma funcionalidade completa, por exemplo:
+“Cadastrar usuário do início ao fim”.
+
 
 Definition of Done:
 
@@ -60,7 +69,12 @@ Nada de “quase pronto”.
 
 ## 🛠️ FASE 5 — DEBUG E TESTES #########################################
 
-**Debug = processo de entender e corrigir erros**
+🤔 **O que é Debug?**
+Debug é o processo de descobrir e resolver erros.
+
+📌 **Mocks no teste**
+Mock = “simulação de algo real para testar sem depender do sistema inteiro”.
+👉 Sempre que possível, combine com testes reais de integração.
 
 - [ ] Erro reproduzido
 - [ ] Hipótese escrita (o que pode estar acontecendo)
@@ -74,10 +88,11 @@ Nada de “quase pronto”.
 
 ## 🔐 FASE 6 — CHECKLIST DE SEGURANÇA ##################################
 
-**Termos simples**
-- API protegida = só pessoas autorizadas acessam  
-- Edge functions = funções que rodam no servidor próximo ao usuário  
-- Secrets = dados sensíveis fora do código
+🤔 **Termos explicados**
+•	API protegida: só pessoas/autos permitidos acessam
+•	Edge functions: funções que rodam próximas ao usuário (ex.: serverless)
+•	Check de segurança: revisão final antes de publicar
+
 
 Checklist:
 
