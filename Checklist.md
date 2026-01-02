@@ -1,4 +1,5 @@
-# 🧭 Checklist Operacional de Projetos
+**🧭 CHECKLIST GERAL DE DESENVOLVIMENTO DE PROJETO**
+
 # Nome do Projeto:
 
 * Objetivo: reduzir retrabalho, garantir segurança e entregar funcionalidades completas.
@@ -7,8 +8,10 @@
 
 ## ✅ FASE 1 — DEFINIÇÃO DO ESCOPO ############################
 
-🎯 **O que é “escopo”?**
-Escopo é a lista do que o projeto vai ter — e também o que não vai ter agora.
+📌 **CONTROLE DE VERSAO**
+## Nº VERSAO ATUAL:
+## Nº NOVA VERSAO:
+
 
 - [ ] Funcionalidades da versão atual definidas
 - [ ] Itens que NÃO entram nesta versão registrados
@@ -117,11 +120,3 @@ Checklist:
 7. Só então avançar para a próxima feature  
 
 -----------------------------------------------------------------------------------------------
-
-## ✍️ ASSINATURA DE ENTREGA (opcional) ###################################
-
-Responsável: __________________________  
-
-Data: ____ / ____ / ______
-
-Status:  ☐ Aprovado   ☐ Ajustar
