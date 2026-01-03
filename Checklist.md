@@ -59,7 +59,7 @@ Feature é uma funcionalidade completa, por exemplo:
 
 
 Definition of Done:
-
+- [ ]
 - [ ] Funciona de ponta a ponta
 - [ ] Conectada ao banco
 - [ ] Testada

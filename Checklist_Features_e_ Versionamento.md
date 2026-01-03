@@ -6,11 +6,16 @@
 
 📌Qual o tipo de mudança? 
 
-[] *MAJOR* = Mudança que que pode quebrar por compatibilidade
-[] *MINOR* = Nova função adicionada, sem risco de quebra por compatibilidade;
-[] *PATCH* = Mudanças pontuais, como novas funções dentro de componentes, correções de bugs;
+[ ] *MAJOR* = Mudança que que pode quebrar por compatibilidade
+[ ] *MINOR* = Nova função adicionada, sem risco de quebra por compatibilidade;
+[ ] *PATCH* = Mudanças pontuais, como novas funções dentro de componentes, correções de bugs;
 
-## MA.MI.PA
+## MA3.MI2.PA1
+## EX:
+Digamos que a versao atual seja: 5.3.2
+5 = MA3 
+3 = MI2
+2 = PA1
 
 ## Nº VERSAO ATUAL:
 ## Nº NOVA VERSAO:
